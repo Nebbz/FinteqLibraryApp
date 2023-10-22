@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7bTbTOamciVc1kaKym4MpWgiwCw314OxbqvnqiwT1L2dC83WFQHsE9T+jbR+wogtg2/oz+1JuoQ/esn8Y8LKiQ==",
+  "dgSpecHash": "QC2p3lITf1mWiV4z1kdCs6GAuhU9viSchYIGdSpEDwCy4rOQsn8nRRWMrsCjClPZoFAFu+QSgW562Fm0CeXe5g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\euanm\\source\\repos\\FinteqLibrary\\FinteqLibrary\\FinteqLibrary.csproj",
+  "projectFilePath": "C:\\Users\\euanm\\source\\repos\\FinteqLibrary\\FinteqLibraryApplication\\FinteqLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

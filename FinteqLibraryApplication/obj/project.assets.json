@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\euanm\\source\\repos\\FinteqLibrary\\FinteqLibrary\\FinteqLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\euanm\\source\\repos\\FinteqLibrary\\FinteqLibraryApplication\\FinteqLibrary.csproj",
       "projectName": "FinteqLibrary",
-      "projectPath": "C:\\Users\\euanm\\source\\repos\\FinteqLibrary\\FinteqLibrary\\FinteqLibrary.csproj",
+      "projectPath": "C:\\Users\\euanm\\source\\repos\\FinteqLibrary\\FinteqLibraryApplication\\FinteqLibrary.csproj",
       "packagesPath": "C:\\Users\\euanm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\euanm\\source\\repos\\FinteqLibrary\\FinteqLibrary\\obj\\",
+      "outputPath": "C:\\Users\\euanm\\source\\repos\\FinteqLibrary\\FinteqLibraryApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\euanm\\AppData\\Roaming\\NuGet\\NuGet.Config",

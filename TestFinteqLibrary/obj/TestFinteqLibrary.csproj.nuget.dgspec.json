@@ -4,14 +4,14 @@
     "C:\\Users\\euanm\\source\\repos\\FinteqLibrary\\TestFinteqLibrary\\TestFinteqLibrary.csproj": {}
   },
   "projects": {
-    "C:\\Users\\euanm\\source\\repos\\FinteqLibrary\\FinteqLibrary\\FinteqLibrary.csproj": {
+    "C:\\Users\\euanm\\source\\repos\\FinteqLibrary\\FinteqLibraryApplication\\FinteqLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\euanm\\source\\repos\\FinteqLibrary\\FinteqLibrary\\FinteqLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\euanm\\source\\repos\\FinteqLibrary\\FinteqLibraryApplication\\FinteqLibrary.csproj",
         "projectName": "FinteqLibrary",
-        "projectPath": "C:\\Users\\euanm\\source\\repos\\FinteqLibrary\\FinteqLibrary\\FinteqLibrary.csproj",
+        "projectPath": "C:\\Users\\euanm\\source\\repos\\FinteqLibrary\\FinteqLibraryApplication\\FinteqLibrary.csproj",
         "packagesPath": "C:\\Users\\euanm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\euanm\\source\\repos\\FinteqLibrary\\FinteqLibrary\\obj\\",
+        "outputPath": "C:\\Users\\euanm\\source\\repos\\FinteqLibrary\\FinteqLibraryApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\euanm\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -86,8 +86,8 @@
           "net7.0-windows7.0": {
             "targetAlias": "net7.0-windows",
             "projectReferences": {
-              "C:\\Users\\euanm\\source\\repos\\FinteqLibrary\\FinteqLibrary\\FinteqLibrary.csproj": {
-                "projectPath": "C:\\Users\\euanm\\source\\repos\\FinteqLibrary\\FinteqLibrary\\FinteqLibrary.csproj"
+              "C:\\Users\\euanm\\source\\repos\\FinteqLibrary\\FinteqLibraryApplication\\FinteqLibrary.csproj": {
+                "projectPath": "C:\\Users\\euanm\\source\\repos\\FinteqLibrary\\FinteqLibraryApplication\\FinteqLibrary.csproj"
               }
             }
           }
@@ -104,15 +104,15 @@
           "dependencies": {
             "MSTest.TestAdapter": {
               "target": "Package",
-              "version": "[2.2.10, )"
+              "version": "[3.1.1, )"
             },
             "MSTest.TestFramework": {
               "target": "Package",
-              "version": "[2.2.10, )"
+              "version": "[3.1.1, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[17.7.1, )"
+              "version": "[17.7.2, )"
             },
             "coverlet.collector": {
               "target": "Package",
