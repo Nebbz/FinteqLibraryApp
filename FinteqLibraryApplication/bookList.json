@@ -1,0 +1,9 @@
+[
+  {
+    "ID": 1,
+    "Title": "Book 1",
+    "Author": "Book 1",
+    "publicationYear": 2001,
+    "isCheckedOut": true
+  }
+]
