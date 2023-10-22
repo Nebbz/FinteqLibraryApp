@@ -1,0 +1,4 @@
+C:\Users\euanm\source\repos\FinteqLibraryTESTFROMGIT\obj\Debug\net7.0-windows\TestFinteqLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\euanm\source\repos\FinteqLibraryTESTFROMGIT\obj\Debug\net7.0-windows\TestFinteqLibrary.AssemblyInfoInputs.cache
+C:\Users\euanm\source\repos\FinteqLibraryTESTFROMGIT\obj\Debug\net7.0-windows\TestFinteqLibrary.AssemblyInfo.cs
+C:\Users\euanm\source\repos\FinteqLibraryTESTFROMGIT\obj\Debug\net7.0-windows\TestFinteqLibrary.csproj.CoreCompileInputs.cache
